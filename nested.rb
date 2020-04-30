@@ -63,7 +63,7 @@ add the following information to the top level of programmer_hash
 
 
 	programmer_hash =
-	 	{ 
+	 	{
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
