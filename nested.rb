@@ -77,7 +77,7 @@ add the following information to the top level of programmer_hash
           :languages => ["C"]
         }
      }
-	programmer_hash[:yukihiro_matsumoto] = [:known_for => "Ruby", :languages => ["LISP", "C"]]
+	programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
 
 end
 
